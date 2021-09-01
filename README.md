@@ -3,8 +3,8 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_ajyng/)](https://www.instagram.com/_ajyng/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://https://www.facebook.com/profile.php?id=100007832192859)](https://www.facebook.com/profile.php?id=100007832192859)
 <ul>
-  <li>🎓 I am majoring in <b>Computer Science</b>, at Seoul National University of Science and Technology.</li>
-  <li>📚 Interested in <b>server development</b> using Java.</li>
+  <li>🎓 I am majoring in <b>computer science</b>, at Seoul National University of Science and Technology.</li>
+  <li>📚 prefer <b>server development using Java</b>, but do not really care about any development tools.</li>
 </ul>
 
 #### 〰️ Skills
