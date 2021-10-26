@@ -18,6 +18,4 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/></a>&nbsp;
 
-
-<img src="https://mblogthumb-phinf.pstatic.net/MjAxOTA2MDJfMTkw/MDAxNTU5NDgzNTM4ODE2.TaNYxoLsrq030K-gNFvkWC_7AMJl_wbusURt12SPsz4g.kfmVD7Ao73xZy6Pzs_Gbpf3UhLdteXcNcvo8oYjLOqog.GIF.studygir/tnTuXuT_%2838%29.gif?type=w2" />
 <b><i>I always try to be a better person than yesterday.</i></b>
