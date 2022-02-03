@@ -1,7 +1,7 @@
 <ul>
   <li>🎓 I am majoring in <b>computer science</b>, at Seoul National University of Science and Technology.</li>
   <li>📚 prefer <b>server development using Java</b>, but do not really care about any development tools.</li>
-  <li>👀 interested in domain-driven design, and object-oriented programming.
+  <li>👀 interested in domain-driven design, and object-oriented programming. (+ TDD...)
 </ul>
 
 #### 〰️ Skills
