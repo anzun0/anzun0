@@ -1,7 +1,7 @@
 <ul>
-  <li>🎓 I am majoring in <b>computer science</b>, at Seoul National University of Science and Technology.</li>
+  <li>⌨️ work as <b>media service server engineer</b> for the <a href="https://linepluscorp.com/">LINE</a></li>
   <li>📚 prefer <b>server development using Java</b>, but do not really care about any development tools.</li>
-  <li>👀 interested in domain-driven design, and object-oriented programming. (+ TDD...)
+  <li>👀 interested in software architecture, and how to use the components efficiently or correctly!
 </ul>
 
 #### 〰️ Skills
